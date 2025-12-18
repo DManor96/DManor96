@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 -<b>Powershell<b>
-- [JWipe](https://github.com/DManor96/JWipe)
+    - [JWipe](https://github.com/DManor96/JWipe)
   
 <h2>🤳Connect with me:</h2>
 
