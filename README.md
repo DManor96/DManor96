@@ -7,7 +7,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
     - [osTicket: Ticket Lifecycle Examples](https://github.com/DManor96/ticket-lifecycle)
 - <b>Microsoft Azure/Active Directory </b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DManor96/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DManor96/azure-network-protocols)
 - <b>Powershell<b>
     - [JWipe](https://github.com/DManor96/JWipe)
